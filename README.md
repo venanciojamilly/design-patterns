@@ -10,7 +10,7 @@ a common language that helps your team
 communicate more efficiently.
 
 
-# Classification of Patterns 
+## Classification of Patterns 
 
 ```The most universal and high-level patterns are architectural patterns. Developers can implement these patterns in virtually any language. Unlike other patterns, they can be used to design the architecture of an entire application. ```  
 
